@@ -1,0 +1,15 @@
+1 poetry init
+2 oetry config --list
+3 poetry config virtualenvs.in-project true
+4 poetry run python .\main.py
+5 https://www.toptal.com/developers/gitignore  (генерим python файл для гитигнора)
+
+git init
+git add .
+git branch -M main
+git commit -m "commit name"
+git remote add origin https://github.com/lantemir/git-education
+git push -u origin main 
+
+либо с visual studio
+ctrl shift p  потом выбираем push githab потом паблик
